@@ -1,3 +1,4 @@
-"Name", "Honeypot Type", "Description", "Programming Language", "Repository", "Mantained"
-"Delilah", "Database Honeypot", "Elasticsearch Honeypot (originally from Novetta)", "Python", "https://github.com/SecurityTW/delilah", "Not actively mantained"
-"ESPot", "Database Honeypot", "An Elasticsearch honeypot to capture CVE-2014-3120 exploit attempts", "JavaScript", "https://github.com/mycert/ESPot", "Not actively mantained"
+"Name", "Honeypot Type", "Description", "Programming Language", "Repository", "Maintained"
+"Delilah", "Database Honeypot", "Elasticsearch Honeypot (originally from Novetta)", "Python", "https://github.com/SecurityTW/delilah", "Not actively maintained"
+"ESPot", "Database Honeypot", "Elasticsearch honeypot to capture CVE-2014-3120 exploit attempts", "JavaScript", "https://github.com/mycert/ESPot", "Not actively maintained"
+"elastichoney", "Database Honeypot", "A Simple Elasticsearch Honeypot", "Go", "https://github.com/jordan-wright/elastichoney", "Not actively maintained"
