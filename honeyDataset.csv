@@ -12,3 +12,7 @@
 "EoHoneypotBundle", "Web Honeypot", "N/A", "Symfony PHP web application framework forms honeypot", "PHP", "https://github.com/eymengunay/EoHoneypotBundle", 2013, "Not maintained"
 "glastopf", "Web Honeypot", "N/A", "Web application honeypot", "Python", "https://github.com/mushorg/glastopf", 2011, "Not maintained"
 "HellPot", "Web Honeypot", "N/A", "Honeypot that tries to crash the bots and clients that visit it's location", "Go", "https://github.com/yunginnanet/HellPot", 2016, "Sporadically maintained"
+"Nodepot", "Web Honeypot", "N/A", "NodeJS web application honeypot", "JavaScript", "https://github.com/schmalle/Nodepot", 2014, "Not maintained"
+"PasitheaHoneypot "Web Honeypot", "N/A", "RestAPI honeypot", "Java", "https://github.com/Marist-Innovation-Lab/PasitheaHoneypot", 2017, "Not maintained"
+"Servletpot "Web Honeypot", "N/A", "Web application Honeypot", "Java", "https://github.com/schmalle/servletpot", 2011, "Not maintained"
+"StrutsHoneypot" "Web Honeypot", "N/A", "Struts Apache 2 based honeypot", "PHP", "https://github.com/Cymmetria/StrutsHoneypot", "Not maintained"
