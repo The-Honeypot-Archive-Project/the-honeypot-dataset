@@ -8,4 +8,7 @@
 "MysqlPot", "Database Honeypot","N/A", "MySQL honeypot", "C#", "https://github.com/schmalle/MysqlPot", 2011, "Not actively maintained"
 "pghoney", "Database Honeypot", "Low", "Low-interaction Postgres Honeypot", "Go", "https://github.com/betheroot/pghoney", 2017, "Not actively maintained"
 "Sticky Elephant", "Database Honeypot", "Medium", "Medium-interaction PostgreSQL honeypot", "Ruby", "https://github.com/betheroot/sticky_elephant", 2017, "Not actively maintained"
-"express-honeypot", "Web Honeypot", "N/A","Web remote file inclusion (RFI) and local file inclusion (LFI) honeypot", "JavaScript", "https://github.com/christophe77/express-honeypot", 2022, "Actively maintained"
+"express-honeypot", "Web Honeypot", "N/A", "Web remote file inclusion (RFI) and local file inclusion (LFI) honeypot", "JavaScript", "https://github.com/christophe77/express-honeypot", 2022, "Actively maintained"
+"EoHoneypotBundle", "Web Honeypot", "N/A", "Symfony PHP web application framework forms honeypot", "PHP", "https://github.com/eymengunay/EoHoneypotBundle", 2013, "Not actively maintained"
+"glastopf", "Web Honeypot", "N/A", "Web application honeypot", "Python", "https://github.com/mushorg/glastopf", 2011, "Not actively maintained"
+"HellPot", "Web Honeypot", "N/A", "Honeypot that tries to crash the bots and clients that visit it's location", "Go", "https://github.com/yunginnanet/HellPot", 2016, "Sporadically maintained"
