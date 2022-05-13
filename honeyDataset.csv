@@ -1,0 +1,2 @@
+"Name", "Honeypot Type", "Description", "Programming Language", "Repository", "Mantained"
+"Delilah", "Database Honeypot", "Elasticsearch Honeypot written in Python (originally from Novetta)", "Python", "https://github.com/SecurityTW/delilah", "Not actively mantained"
