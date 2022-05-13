@@ -1,2 +1,3 @@
 "Name", "Honeypot Type", "Description", "Programming Language", "Repository", "Mantained"
-"Delilah", "Database Honeypot", "Elasticsearch Honeypot written in Python (originally from Novetta)", "Python", "https://github.com/SecurityTW/delilah", "Not actively mantained"
+"Delilah", "Database Honeypot", "Elasticsearch Honeypot (originally from Novetta)", "Python", "https://github.com/SecurityTW/delilah", "Not actively mantained"
+"ESPot", "Database Honeypot", "An Elasticsearch honeypot to capture CVE-2014-3120 exploit attempts", "JavaScript", "https://github.com/mycert/ESPot", "Not actively mantained"
