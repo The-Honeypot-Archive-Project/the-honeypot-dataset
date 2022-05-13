@@ -1,6 +1,6 @@
 # HoneyDataset: Structured List of Honeypot Software
 
-This repository offers an structured list of honeypots allow quickly searches. Access the [honeyDataset](honeyDataset.csv).
+This repository offers an structured list of honeypots that allows quickly searches. Access the [honeyDataset](honeyDataset.csv).
 
 ## Features
 
