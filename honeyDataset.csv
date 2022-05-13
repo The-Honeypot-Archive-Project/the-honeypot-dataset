@@ -8,3 +8,4 @@
 "MysqlPot", "Database Honeypot","N/A", "MySQL honeypot", "C#", "https://github.com/schmalle/MysqlPot", 2011, "Not actively maintained"
 "pghoney", "Database Honeypot", "Low", "Low-interaction Postgres Honeypot", "Go", "https://github.com/betheroot/pghoney", 2017, "Not actively maintained"
 "Sticky Elephant", "Database Honeypot", "Medium", "Medium-interaction PostgreSQL honeypot", "Ruby", "https://github.com/betheroot/sticky_elephant", 2017, "Not actively maintained"
+"express-honeypot", "Web Honeypot", "N/A","Web remote file inclusion (RFI) and local file inclusion (LFI) honeypot", "JavaScript", "https://github.com/christophe77/express-honeypot", 2022, "Actively maintained"
