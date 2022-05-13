@@ -16,3 +16,4 @@
 "PasitheaHoneypot", "Web Honeypot", "N/A", "RestAPI honeypot", "Java", "https://github.com/Marist-Innovation-Lab/PasitheaHoneypot", 2017, "Not maintained"
 "Servletpot", "Web Honeypot", "N/A", "Web application Honeypot", "Java", "https://github.com/schmalle/servletpot", 2011, "Not maintained"
 "StrutsHoneypot", "Web Honeypot", "N/A", "Struts Apache 2 based honeypot", "PHP", "https://github.com/Cymmetria/StrutsHoneypot", 2017, "Not maintained"
+"ADBHoney", "Service Honeypot", "Low", "Honeypot designed for Android Debug Bridge over TCP/IP", "Python", "https://github.com/huuck/ADBHoney", 2018, "Rarely maintained"
