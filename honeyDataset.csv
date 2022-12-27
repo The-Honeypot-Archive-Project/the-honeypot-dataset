@@ -18,3 +18,4 @@
 "StrutsHoneypot", "Web Honeypot", "N/A", "Struts Apache 2 based honeypot", "PHP", "https://github.com/Cymmetria/StrutsHoneypot", 2017, "Not maintained", ""
 "ADBHoney", "Service Honeypot", "Low", "Honeypot designed for Android Debug Bridge over TCP/IP", "Python", "https://github.com/huuck/ADBHoney", 2018, "Rarely maintained", ""
 "amthoneypot", "Service Honeypot", "N/A", "Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689", "Go", "https://github.com/x1sec/amthoneypot", 2017, "Not maintained", ""
+"h0neytr4p","Web Honeypot","N/A", "Easy to configure Honeypot for Blue Team", "Python","https://github.com/pbssubhash/h0neytr4p",2021,"Maintained",""
