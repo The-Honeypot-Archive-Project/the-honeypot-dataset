@@ -21,3 +21,5 @@
 "h0neytr4p","Web Honeypot","N/A", "Easy to configure Honeypot for Blue Team", "Python","https://github.com/pbssubhash/h0neytr4p",2021,"Maintained",""
 "RedisHoneyPot", "Database Honeypot", "High", "High Interaction Honeypot Solution for Redis protocol", "Go", "https://github.com/cypwnpwnsocute/RedisHoneyPot", 2021, "Not maintained", ""
 "ElasticPot", "Database Honeypot", "N/A", "Honeypot simulating a vulnerable Elasticsearch server opened to the Internet", "Python", "https://gitlab.com/bontchev/elasticpot", 2020, "Not maintained", ""
+"PyRDP", "Service Honeypot", "High", "A Python Remote Desktop Protocol (RDP) Monster-in-the-Middle (MITM) tool and library", "Python", "https://github.com/gosecure/pyrdp", 2013, "Maintained", ""
+"Dockpot", "Service Honeypot", "High", "A high interaction ssh-honeypot based on docker", "Python", "https://github.com/eg-cert/dockpot", 2013, "Not maintained", ""
