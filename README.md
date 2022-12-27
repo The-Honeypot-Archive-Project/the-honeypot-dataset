@@ -1,7 +1,7 @@
-# HoneyDataset: Structured List of Honeypot Software
+# The Honeypot Dataset
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/verovaleros/honeyDataset)
 
-This repository offers an structured list of honeypots that allows quickly searches. Access the [honeyDataset](honeyDataset.csv).
+This repository offers an structured list (csv) of honeypots that allows quickly searches. Access the [honeyDataset](honeyDataset.csv).
 
 ## Features
 
