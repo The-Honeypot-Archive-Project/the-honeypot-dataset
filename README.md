@@ -1,5 +1,5 @@
 # The Honeypot Dataset
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/verovaleros/honeyDataset)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/the-honeypot-dataset)
 
 This repository offers an structured list (csv) of honeypots that allows quickly searches. Access the [honeyDataset](honeyDataset.csv).
 
