@@ -23,3 +23,4 @@
 "ElasticPot", "Database Honeypot", "N/A", "Honeypot simulating a vulnerable Elasticsearch server opened to the Internet", "Python", "https://gitlab.com/bontchev/elasticpot", 2020, "Not maintained", ""
 "PyRDP", "Service Honeypot", "High", "A Python Remote Desktop Protocol (RDP) Monster-in-the-Middle (MITM) tool and library", "Python", "https://github.com/gosecure/pyrdp", 2013, "Maintained", ""
 "Dockpot", "Service Honeypot", "High", "A high interaction ssh-honeypot based on docker", "Python", "https://github.com/eg-cert/dockpot", 2013, "Not maintained", ""
+"wordpot", "Web Honeypot", "High", "Wordpress honeypot which detects probes for plugins, themes, timthumb and other common files used to fingerprint a wordpress installation", "HTML", 2012, "Not maintained", "https://github.com/The-Honeypot-Archive-Project/wordpot"
